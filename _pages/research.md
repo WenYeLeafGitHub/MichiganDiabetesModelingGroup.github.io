@@ -8,7 +8,7 @@ permalink: /research/
 
 ### Ongoing projects
 
-**Validation of a New Stroke Simulation Model for Evaluating Stroke Prevention and Treatment Policies in Type 2 Diabetes Patients**
+#### Validation of a New Stroke Simulation Model for Evaluating Stroke Prevention and Treatment Policies in Type 2 Diabetes Patients####
 
 *Funded by NINDS (R21NS120223) (PI: Wen Ye)*
 

@@ -8,7 +8,7 @@ permalink: /research/
 
 ## Ongoing projects
 
-<br/><br/>
+<br/>
 
 #### Validation of a New Stroke Simulation Model for Evaluating Stroke Prevention and Treatment Policies in Type 2 Diabetes Patients
 

@@ -3,7 +3,7 @@ layout: member
 category: CurrentMembers
 title: Hanyu Li, MS
 role: PhD student, Biostatistics
-image: Yubo_Shao.png
+image: unknown.png
 permalink: 'team/Hanyu_Li'
 
 ---

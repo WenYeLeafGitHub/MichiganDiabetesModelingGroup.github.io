@@ -1,6 +1,6 @@
 ---
 layout: member
-category: FormerMembers
+category: FormerMembers, MS
 title: Nathaniel Putnam
 permalink: 'team/Nathaniel_Putnam'
 

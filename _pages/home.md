@@ -8,7 +8,7 @@ permalink: /
 
 ### About the Group
 
-The Michigan Diabetes Modelling Group focused on developing diabetes microsimulation models, with the aim of improving the understanding and management of diabetes.
+The Michigan Diabetes Modelling Group focuses on developing diabetes microsimulation models, with the aim of improving the understanding and management of diabetes.
 
 Our models are used to simulate the progression of diabetes and diabetes over time, its complications (retinopathy, neuropathy and nephropathy), and its major comorbidities (cardiovascular and cerebrovascular disease), and death. 
 

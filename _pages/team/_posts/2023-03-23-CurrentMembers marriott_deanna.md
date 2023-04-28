@@ -7,5 +7,5 @@ role: Research Assistant Professor, School of Nursing
 permalink: 'team/Marriott_deanna'
 social:
     website: https://nursing.umich.edu/faculty-staff/faculty/deanna-marriott
-
+    
 ---

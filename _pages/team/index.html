@@ -25,9 +25,13 @@ permalink: /team/
 
         <div class="col-md-10">
             <div class="card-body">
-                <a href={{member.url}}>
+                {% if member.social.website %}
+                  <a href={{member.social.website}}>
+                    <h4 class="card-title">{{ member.title }}</h4>
+                  </a>  
+                {%else%} 
                   <h4 class="card-title">{{ member.title }}</h4>
-                </a>  
+                {% endif %}
                 <p class="card-text">{{ member.role }}</p>
             </div>
         </div>

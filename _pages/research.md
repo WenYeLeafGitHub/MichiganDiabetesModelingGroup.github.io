@@ -10,19 +10,21 @@ permalink: /research/
 
 <br/>
 
-#### Validation of a New Stroke Simulation Model for Evaluating Stroke Prevention and Treatment Policies in Type 2 Diabetes Patients
+### Validation of a New Stroke Simulation Model for Evaluating Stroke Prevention and Treatment Policies in Type 2 Diabetes Patients
 
 *Funded by NINDS (R21NS120223) (PI: Wen Ye)*
 
 Stroke is one of the atherosclerotic cardiovascular diseases that are the leading cause of morbidity and mortality for people with type 2 diabetes (T2DM) and are the largest contributor to the direct and indirect costs of T2MD. Despite improvements in the management of type T2MD, the implementation level of these preventive interventions and treatment for T2MD complications is still suboptimal. Substantial opportunity exists to further improve diabetes control to prevent primary stroke and improve early management to reduce stroke related morbidity, mortality, and cost. We will first validate a new stroke microsimulation model for T2DM that reflects the modern paradigm of diabetes progression, stroke management, and treatment. This model will then be used to evaluate the cost-effectiveness of enhanced levels of implementing seven primary prevention strategies and two early treatment interventions for stroke in T2DM patients from a national perspective. The results of the evaluation will advance scientific knowledge and will have major implications for health policies for stroke prevention and treatments in type 2 diabetes patients.
 
-#### Economic Analysis of Automated Insulin Delivery Systems
+
+### Economic Analysis of Automated Insulin Delivery Systems
 
 *Funded by Hemsley Foundation (PI: Stanley Kuo)*
 
 This project is to assess the long-term cost-effectiveness of AID systems versus standard therapy among individuals with T1D from the US healthcare system/payer perspective to determine how the costs of AID systems are offset by improved health-related quality-of-life and reduced diabetes-related complications.
 
-#### Updating Diabetic Kidney Disease Sub-Model within the Michigan Model for Diabetes to Assess the Impact of Finerenone on Renal and Cardiovascular Endpoints 
+
+### Updating Diabetic Kidney Disease Sub-Model within the Michigan Model for Diabetes to Assess the Impact of Finerenone on Renal and Cardiovascular Endpoints 
 
 *Funded by Bayer HealthCare, LLC, USA (PI: Wen Ye)*
 

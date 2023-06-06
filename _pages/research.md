@@ -28,10 +28,11 @@ Stroke is one of the atherosclerotic cardiovascular diseases that are the leadin
 
 <img align="left" width="160" height="125"
      src="https://drive.google.com/uc?id=1oOwiUnVaTUGttvWucIgbx8aI5HZ0xWmp"
-     style="display: block; margin-right: auto; margin-left: auto;"/>
+     style="display: block; margin-right: 20; margin-left: 20;"/>
 
 This project is to assess the long-term cost-effectiveness of AID systems versus standard therapy among individuals with T1D from the US healthcare system/payer perspective to determine how the costs of AID systems are offset by improved health-related quality-of-life and reduced diabetes-related complications.
 
+---
 
 ### Updating Diabetic Kidney Disease Sub-Model within the Michigan Model for Diabetes to Assess the Impact of Finerenone on Renal and Cardiovascular Endpoints 
 

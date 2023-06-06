@@ -14,7 +14,7 @@ permalink: /research/
 
 *Funded by NINDS (R21NS120223) (PI: Wen Ye)*
 
-<img align="left" width="100" height="100"
+<img align="left" width="160" height="115"
      src="https://drive.google.com/uc?id=1YaD_MJ7vPjeVkGV3orOpd2xYGqUkh922"
      style="display: block;"/>
 
